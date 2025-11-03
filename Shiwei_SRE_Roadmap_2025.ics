@@ -1,0 +1,483 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SRE Roadmap (Shiwei)//
+BEGIN:VEVENT
+SUMMARY:Week 1 [Reading] SRE Mindset & SLIs/SLOs
+DTSTART;TZID=Asia/Singapore:20251027T200000
+DTEND;TZID=Asia/Singapore:20251027T220000
+DESCRIPTION:Week 1 Reading & Concepts – SRE Mindset & SLIs/SLOs\nDuratio
+ n: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters.\n20:4
+ 5–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3–5 key
+  takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: https://sre
+ .google/sre-book/table-of-contents/\n• Example video: https://www.youtub
+ e.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week1.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 1 [Lab] SRE Mindset & SLIs/SLOs
+DTSTART;TZID=Asia/Singapore:20251029T200000
+DTEND;TZID=Asia/Singapore:20251029T220000
+DESCRIPTION:Week 1 Hands-On Lab – SRE Mindset & SLIs/SLOs\nDuration: 2 h
+ ours\n\n20:00–20:30  Setup environment & validate prerequisites.\n20:30
+ –21:15  Execute main lab steps.\n21:15–22:00  Verify results\, capture
+  screenshots.\n\nDeliverable: working config/scripts for week 1.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 1 [Project] SRE Mindset & SLIs/SLOs
+DTSTART;TZID=Asia/Singapore:20251102T140000
+DTEND;TZID=Asia/Singapore:20251102T180000
+DESCRIPTION:Week 1 Project Build & Documentation – SRE Mindset & SLIs/SL
+ Os\nDuration: 4 hours\n\n14:00–15:00  Build core project components or a
+ utomation scripts.\n15:00–16:00  Add observability/monitoring.\n16:00–
+ 17:00  Test features\, validate metrics.\n17:00–18:00  Write README\, co
+ mmit to repo.\n\nDeliverable: completed project folder for week 1.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 1 [Reflection] SRE Mindset & SLIs/SLOs
+DTSTART;TZID=Asia/Singapore:20251102T190000
+DTEND;TZID=Asia/Singapore:20251102T200000
+DESCRIPTION:Week 1 Reflection & Review – SRE Mindset & SLIs/SLOs\nDurati
+ on: 1 hour\n\nReflect on:\n• What reliability insight stood out this wee
+ k?\n• Which tool/metric felt most valuable?\n• What to automate next w
+ eek?\n\nDeliverable: update reflections.md with Week 1 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 2 [Reading] Metrics & Observability Basics
+DTSTART;TZID=Asia/Singapore:20251103T200000
+DTEND;TZID=Asia/Singapore:20251103T220000
+DESCRIPTION:Week 2 Reading & Concepts – Metrics & Observability Basics\n
+ Duration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters
+ .\n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3
+ –5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: htt
+ ps://sre.google/sre-book/table-of-contents/\n• Example video: https://ww
+ w.youtube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week2.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 2 [Lab] Metrics & Observability Basics
+DTSTART;TZID=Asia/Singapore:20251105T200000
+DTEND;TZID=Asia/Singapore:20251105T220000
+DESCRIPTION:Week 2 Hands-On Lab – Metrics & Observability Basics\nDurati
+ on: 2 hours\n\n20:00–20:30  Setup environment & validate prerequisites.\
+ n20:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\, c
+ apture screenshots.\n\nDeliverable: working config/scripts for week 2.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 2 [Project] Metrics & Observability Basics
+DTSTART;TZID=Asia/Singapore:20251109T140000
+DTEND;TZID=Asia/Singapore:20251109T180000
+DESCRIPTION:Week 2 Project Build & Documentation – Metrics & Observabili
+ ty Basics\nDuration: 4 hours\n\n14:00–15:00  Build core project componen
+ ts or automation scripts.\n15:00–16:00  Add observability/monitoring.\n1
+ 6:00–17:00  Test features\, validate metrics.\n17:00–18:00  Write READ
+ ME\, commit to repo.\n\nDeliverable: completed project folder for week 2.\
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 2 [Reflection] Metrics & Observability Basics
+DTSTART;TZID=Asia/Singapore:20251109T190000
+DTEND;TZID=Asia/Singapore:20251109T200000
+DESCRIPTION:Week 2 Reflection & Review – Metrics & Observability Basics\
+ nDuration: 1 hour\n\nReflect on:\n• What reliability insight stood out t
+ his week?\n• Which tool/metric felt most valuable?\n• What to automate
+  next week?\n\nDeliverable: update reflections.md with Week 2 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 3 [Reading] Prometheus and Grafana Stack
+DTSTART;TZID=Asia/Singapore:20251110T200000
+DTEND;TZID=Asia/Singapore:20251110T220000
+DESCRIPTION:Week 3 Reading & Concepts – Prometheus and Grafana Stack\nDu
+ ration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters.\
+ n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3–
+ 5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: https:
+ //sre.google/sre-book/table-of-contents/\n• Example video: https://www.y
+ outube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week3.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 3 [Lab] Prometheus and Grafana Stack
+DTSTART;TZID=Asia/Singapore:20251112T200000
+DTEND;TZID=Asia/Singapore:20251112T220000
+DESCRIPTION:Week 3 Hands-On Lab – Prometheus and Grafana Stack\nDuration
+ : 2 hours\n\n20:00–20:30  Setup environment & validate prerequisites.\n2
+ 0:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\, cap
+ ture screenshots.\n\nDeliverable: working config/scripts for week 3.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 3 [Project] Prometheus and Grafana Stack
+DTSTART;TZID=Asia/Singapore:20251116T140000
+DTEND;TZID=Asia/Singapore:20251116T180000
+DESCRIPTION:Week 3 Project Build & Documentation – Prometheus and Grafan
+ a Stack\nDuration: 4 hours\n\n14:00–15:00  Build core project components
+  or automation scripts.\n15:00–16:00  Add observability/monitoring.\n16:
+ 00–17:00  Test features\, validate metrics.\n17:00–18:00  Write README
+ \, commit to repo.\n\nDeliverable: completed project folder for week 3.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 3 [Reflection] Prometheus and Grafana Stack
+DTSTART;TZID=Asia/Singapore:20251116T190000
+DTEND;TZID=Asia/Singapore:20251116T200000
+DESCRIPTION:Week 3 Reflection & Review – Prometheus and Grafana Stack\nD
+ uration: 1 hour\n\nReflect on:\n• What reliability insight stood out thi
+ s week?\n• Which tool/metric felt most valuable?\n• What to automate n
+ ext week?\n\nDeliverable: update reflections.md with Week 3 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 4 [Reading] Custom Metrics and Alerting
+DTSTART;TZID=Asia/Singapore:20251117T200000
+DTEND;TZID=Asia/Singapore:20251117T220000
+DESCRIPTION:Week 4 Reading & Concepts – Custom Metrics and Alerting\nDur
+ ation: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters.\n
+ 20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3–5
+  key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: https:/
+ /sre.google/sre-book/table-of-contents/\n• Example video: https://www.yo
+ utube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week4.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 4 [Lab] Custom Metrics and Alerting
+DTSTART;TZID=Asia/Singapore:20251119T200000
+DTEND;TZID=Asia/Singapore:20251119T220000
+DESCRIPTION:Week 4 Hands-On Lab – Custom Metrics and Alerting\nDuration:
+  2 hours\n\n20:00–20:30  Setup environment & validate prerequisites.\n20
+ :30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\, capt
+ ure screenshots.\n\nDeliverable: working config/scripts for week 4.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 4 [Project] Custom Metrics and Alerting
+DTSTART;TZID=Asia/Singapore:20251123T140000
+DTEND;TZID=Asia/Singapore:20251123T180000
+DESCRIPTION:Week 4 Project Build & Documentation – Custom Metrics and Al
+ erting\nDuration: 4 hours\n\n14:00–15:00  Build core project components 
+ or automation scripts.\n15:00–16:00  Add observability/monitoring.\n16:0
+ 0–17:00  Test features\, validate metrics.\n17:00–18:00  Write README\
+ , commit to repo.\n\nDeliverable: completed project folder for week 4.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 4 [Reflection] Custom Metrics and Alerting
+DTSTART;TZID=Asia/Singapore:20251123T190000
+DTEND;TZID=Asia/Singapore:20251123T200000
+DESCRIPTION:Week 4 Reflection & Review – Custom Metrics and Alerting\nDu
+ ration: 1 hour\n\nReflect on:\n• What reliability insight stood out this
+  week?\n• Which tool/metric felt most valuable?\n• What to automate ne
+ xt week?\n\nDeliverable: update reflections.md with Week 4 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 5 [Reading] AWS CloudWatch Observability
+DTSTART;TZID=Asia/Singapore:20251124T200000
+DTEND;TZID=Asia/Singapore:20251124T220000
+DESCRIPTION:Week 5 Reading & Concepts – AWS CloudWatch Observability\nDu
+ ration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters.\
+ n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3–
+ 5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: https:
+ //sre.google/sre-book/table-of-contents/\n• Example video: https://www.y
+ outube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week5.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 5 [Lab] AWS CloudWatch Observability
+DTSTART;TZID=Asia/Singapore:20251126T200000
+DTEND;TZID=Asia/Singapore:20251126T220000
+DESCRIPTION:Week 5 Hands-On Lab – AWS CloudWatch Observability\nDuration
+ : 2 hours\n\n20:00–20:30  Setup environment & validate prerequisites.\n2
+ 0:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\, cap
+ ture screenshots.\n\nDeliverable: working config/scripts for week 5.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 5 [Project] AWS CloudWatch Observability
+DTSTART;TZID=Asia/Singapore:20251130T140000
+DTEND;TZID=Asia/Singapore:20251130T180000
+DESCRIPTION:Week 5 Project Build & Documentation – AWS CloudWatch Observ
+ ability\nDuration: 4 hours\n\n14:00–15:00  Build core project components
+  or automation scripts.\n15:00–16:00  Add observability/monitoring.\n16:
+ 00–17:00  Test features\, validate metrics.\n17:00–18:00  Write README
+ \, commit to repo.\n\nDeliverable: completed project folder for week 5.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 5 [Reflection] AWS CloudWatch Observability
+DTSTART;TZID=Asia/Singapore:20251130T190000
+DTEND;TZID=Asia/Singapore:20251130T200000
+DESCRIPTION:Week 5 Reflection & Review – AWS CloudWatch Observability\nD
+ uration: 1 hour\n\nReflect on:\n• What reliability insight stood out thi
+ s week?\n• Which tool/metric felt most valuable?\n• What to automate n
+ ext week?\n\nDeliverable: update reflections.md with Week 5 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 6 [Reading] AWS X-Ray and Reliability Pillar
+DTSTART;TZID=Asia/Singapore:20251201T200000
+DTEND;TZID=Asia/Singapore:20251201T220000
+DESCRIPTION:Week 6 Reading & Concepts – AWS X-Ray and Reliability Pillar
+ \nDuration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapte
+ rs.\n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 
+ 3–5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: ht
+ tps://sre.google/sre-book/table-of-contents/\n• Example video: https://w
+ ww.youtube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week6.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 6 [Lab] AWS X-Ray and Reliability Pillar
+DTSTART;TZID=Asia/Singapore:20251203T200000
+DTEND;TZID=Asia/Singapore:20251203T220000
+DESCRIPTION:Week 6 Hands-On Lab – AWS X-Ray and Reliability Pillar\nDura
+ tion: 2 hours\n\n20:00–20:30  Setup environment & validate prerequisites
+ .\n20:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\,
+  capture screenshots.\n\nDeliverable: working config/scripts for week 6.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 6 [Project] AWS X-Ray and Reliability Pillar
+DTSTART;TZID=Asia/Singapore:20251207T140000
+DTEND;TZID=Asia/Singapore:20251207T180000
+DESCRIPTION:Week 6 Project Build & Documentation – AWS X-Ray and Reliabi
+ lity Pillar\nDuration: 4 hours\n\n14:00–15:00  Build core project compon
+ ents or automation scripts.\n15:00–16:00  Add observability/monitoring.\
+ n16:00–17:00  Test features\, validate metrics.\n17:00–18:00  Write RE
+ ADME\, commit to repo.\n\nDeliverable: completed project folder for week 6
+ .\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 6 [Reflection] AWS X-Ray and Reliability Pillar
+DTSTART;TZID=Asia/Singapore:20251207T190000
+DTEND;TZID=Asia/Singapore:20251207T200000
+DESCRIPTION:Week 6 Reflection & Review – AWS X-Ray and Reliability Pilla
+ r\nDuration: 1 hour\n\nReflect on:\n• What reliability insight stood out
+  this week?\n• Which tool/metric felt most valuable?\n• What to automa
+ te next week?\n\nDeliverable: update reflections.md with Week 6 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 7 [Reading] Terraform Reliable Infrastructure
+DTSTART;TZID=Asia/Singapore:20251208T200000
+DTEND;TZID=Asia/Singapore:20251208T220000
+DESCRIPTION:Week 7 Reading & Concepts – Terraform Reliable Infrastructur
+ e\nDuration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapt
+ ers.\n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write
+  3–5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: h
+ ttps://sre.google/sre-book/table-of-contents/\n• Example video: https://
+ www.youtube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week7.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 7 [Lab] Terraform Reliable Infrastructure
+DTSTART;TZID=Asia/Singapore:20251210T200000
+DTEND;TZID=Asia/Singapore:20251210T220000
+DESCRIPTION:Week 7 Hands-On Lab – Terraform Reliable Infrastructure\nDur
+ ation: 2 hours\n\n20:00–20:30  Setup environment & validate prerequisite
+ s.\n20:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\
+ , capture screenshots.\n\nDeliverable: working config/scripts for week 7.\
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 7 [Project] Terraform Reliable Infrastructure
+DTSTART;TZID=Asia/Singapore:20251214T140000
+DTEND;TZID=Asia/Singapore:20251214T180000
+DESCRIPTION:Week 7 Project Build & Documentation – Terraform Reliable In
+ frastructure\nDuration: 4 hours\n\n14:00–15:00  Build core project compo
+ nents or automation scripts.\n15:00–16:00  Add observability/monitoring.
+ \n16:00–17:00  Test features\, validate metrics.\n17:00–18:00  Write R
+ EADME\, commit to repo.\n\nDeliverable: completed project folder for week 
+ 7.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 7 [Reflection] Terraform Reliable Infrastructure
+DTSTART;TZID=Asia/Singapore:20251214T190000
+DTEND;TZID=Asia/Singapore:20251214T200000
+DESCRIPTION:Week 7 Reflection & Review – Terraform Reliable Infrastructu
+ re\nDuration: 1 hour\n\nReflect on:\n• What reliability insight stood ou
+ t this week?\n• Which tool/metric felt most valuable?\n• What to autom
+ ate next week?\n\nDeliverable: update reflections.md with Week 7 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 8 [Reading] Python Auto-Healing with Boto3
+DTSTART;TZID=Asia/Singapore:20251215T200000
+DTEND;TZID=Asia/Singapore:20251215T220000
+DESCRIPTION:Week 8 Reading & Concepts – Python Auto-Healing with Boto3\n
+ Duration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters
+ .\n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3
+ –5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: htt
+ ps://sre.google/sre-book/table-of-contents/\n• Example video: https://ww
+ w.youtube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week8.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 8 [Lab] Python Auto-Healing with Boto3
+DTSTART;TZID=Asia/Singapore:20251217T200000
+DTEND;TZID=Asia/Singapore:20251217T220000
+DESCRIPTION:Week 8 Hands-On Lab – Python Auto-Healing with Boto3\nDurati
+ on: 2 hours\n\n20:00–20:30  Setup environment & validate prerequisites.\
+ n20:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\, c
+ apture screenshots.\n\nDeliverable: working config/scripts for week 8.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 8 [Project] Python Auto-Healing with Boto3
+DTSTART;TZID=Asia/Singapore:20251221T140000
+DTEND;TZID=Asia/Singapore:20251221T180000
+DESCRIPTION:Week 8 Project Build & Documentation – Python Auto-Healing w
+ ith Boto3\nDuration: 4 hours\n\n14:00–15:00  Build core project componen
+ ts or automation scripts.\n15:00–16:00  Add observability/monitoring.\n1
+ 6:00–17:00  Test features\, validate metrics.\n17:00–18:00  Write READ
+ ME\, commit to repo.\n\nDeliverable: completed project folder for week 8.\
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 8 [Reflection] Python Auto-Healing with Boto3
+DTSTART;TZID=Asia/Singapore:20251221T190000
+DTEND;TZID=Asia/Singapore:20251221T200000
+DESCRIPTION:Week 8 Reflection & Review – Python Auto-Healing with Boto3\
+ nDuration: 1 hour\n\nReflect on:\n• What reliability insight stood out t
+ his week?\n• Which tool/metric felt most valuable?\n• What to automate
+  next week?\n\nDeliverable: update reflections.md with Week 8 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 9 [Reading] Incident Response and Runbooks
+DTSTART;TZID=Asia/Singapore:20251222T200000
+DTEND;TZID=Asia/Singapore:20251222T220000
+DESCRIPTION:Week 9 Reading & Concepts – Incident Response and Runbooks\n
+ Duration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters
+ .\n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3
+ –5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: htt
+ ps://sre.google/sre-book/table-of-contents/\n• Example video: https://ww
+ w.youtube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week9.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 9 [Lab] Incident Response and Runbooks
+DTSTART;TZID=Asia/Singapore:20251224T200000
+DTEND;TZID=Asia/Singapore:20251224T220000
+DESCRIPTION:Week 9 Hands-On Lab – Incident Response and Runbooks\nDurati
+ on: 2 hours\n\n20:00–20:30  Setup environment & validate prerequisites.\
+ n20:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\, c
+ apture screenshots.\n\nDeliverable: working config/scripts for week 9.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 9 [Project] Incident Response and Runbooks
+DTSTART;TZID=Asia/Singapore:20251228T140000
+DTEND;TZID=Asia/Singapore:20251228T180000
+DESCRIPTION:Week 9 Project Build & Documentation – Incident Response and
+  Runbooks\nDuration: 4 hours\n\n14:00–15:00  Build core project componen
+ ts or automation scripts.\n15:00–16:00  Add observability/monitoring.\n1
+ 6:00–17:00  Test features\, validate metrics.\n17:00–18:00  Write READ
+ ME\, commit to repo.\n\nDeliverable: completed project folder for week 9.\
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 9 [Reflection] Incident Response and Runbooks
+DTSTART;TZID=Asia/Singapore:20251228T190000
+DTEND;TZID=Asia/Singapore:20251228T200000
+DESCRIPTION:Week 9 Reflection & Review – Incident Response and Runbooks\
+ nDuration: 1 hour\n\nReflect on:\n• What reliability insight stood out t
+ his week?\n• Which tool/metric felt most valuable?\n• What to automate
+  next week?\n\nDeliverable: update reflections.md with Week 9 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 10 [Reading] Chaos Engineering (AWS FIS)
+DTSTART;TZID=Asia/Singapore:20251229T200000
+DTEND;TZID=Asia/Singapore:20251229T220000
+DESCRIPTION:Week 10 Reading & Concepts – Chaos Engineering (AWS FIS)\nDu
+ ration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapters.\
+ n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write 3–
+ 5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: https:
+ //sre.google/sre-book/table-of-contents/\n• Example video: https://www.y
+ outube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week10.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 10 [Lab] Chaos Engineering (AWS FIS)
+DTSTART;TZID=Asia/Singapore:20251231T200000
+DTEND;TZID=Asia/Singapore:20251231T220000
+DESCRIPTION:Week 10 Hands-On Lab – Chaos Engineering (AWS FIS)\nDuration
+ : 2 hours\n\n20:00–20:30  Setup environment & validate prerequisites.\n2
+ 0:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\, cap
+ ture screenshots.\n\nDeliverable: working config/scripts for week 10.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 10 [Project] Chaos Engineering (AWS FIS)
+DTSTART;TZID=Asia/Singapore:20260104T140000
+DTEND;TZID=Asia/Singapore:20260104T180000
+DESCRIPTION:Week 10 Project Build & Documentation – Chaos Engineering (A
+ WS FIS)\nDuration: 4 hours\n\n14:00–15:00  Build core project components
+  or automation scripts.\n15:00–16:00  Add observability/monitoring.\n16:
+ 00–17:00  Test features\, validate metrics.\n17:00–18:00  Write README
+ \, commit to repo.\n\nDeliverable: completed project folder for week 10.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 10 [Reflection] Chaos Engineering (AWS FIS)
+DTSTART;TZID=Asia/Singapore:20260104T190000
+DTEND;TZID=Asia/Singapore:20260104T200000
+DESCRIPTION:Week 10 Reflection & Review – Chaos Engineering (AWS FIS)\nD
+ uration: 1 hour\n\nReflect on:\n• What reliability insight stood out thi
+ s week?\n• Which tool/metric felt most valuable?\n• What to automate n
+ ext week?\n\nDeliverable: update reflections.md with Week 10 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 11 [Reading] Project Polish and Documentation
+DTSTART;TZID=Asia/Singapore:20260105T200000
+DTEND;TZID=Asia/Singapore:20260105T220000
+DESCRIPTION:Week 11 Reading & Concepts – Project Polish and Documentatio
+ n\nDuration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book chapt
+ ers.\n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  Write
+  3–5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Book: h
+ ttps://sre.google/sre-book/table-of-contents/\n• Example video: https://
+ www.youtube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week11.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 11 [Lab] Project Polish and Documentation
+DTSTART;TZID=Asia/Singapore:20260107T200000
+DTEND;TZID=Asia/Singapore:20260107T220000
+DESCRIPTION:Week 11 Hands-On Lab – Project Polish and Documentation\nDur
+ ation: 2 hours\n\n20:00–20:30  Setup environment & validate prerequisite
+ s.\n20:30–21:15  Execute main lab steps.\n21:15–22:00  Verify results\
+ , capture screenshots.\n\nDeliverable: working config/scripts for week 11.
+ \n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 11 [Project] Project Polish and Documentation
+DTSTART;TZID=Asia/Singapore:20260111T140000
+DTEND;TZID=Asia/Singapore:20260111T180000
+DESCRIPTION:Week 11 Project Build & Documentation – Project Polish and D
+ ocumentation\nDuration: 4 hours\n\n14:00–15:00  Build core project compo
+ nents or automation scripts.\n15:00–16:00  Add observability/monitoring.
+ \n16:00–17:00  Test features\, validate metrics.\n17:00–18:00  Write R
+ EADME\, commit to repo.\n\nDeliverable: completed project folder for week 
+ 11.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 11 [Reflection] Project Polish and Documentation
+DTSTART;TZID=Asia/Singapore:20260111T190000
+DTEND;TZID=Asia/Singapore:20260111T200000
+DESCRIPTION:Week 11 Reflection & Review – Project Polish and Documentati
+ on\nDuration: 1 hour\n\nReflect on:\n• What reliability insight stood ou
+ t this week?\n• Which tool/metric felt most valuable?\n• What to autom
+ ate next week?\n\nDeliverable: update reflections.md with Week 11 notes.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 12 [Reading] Interview Preparation and Reflection
+DTSTART;TZID=Asia/Singapore:20260112T200000
+DTEND;TZID=Asia/Singapore:20260112T220000
+DESCRIPTION:Week 12 Reading & Concepts – Interview Preparation and Refle
+ ction\nDuration: 2 hours\n\n20:00–20:45  Read relevant Google SRE Book c
+ hapters.\n20:45–21:30  Watch supporting video/webinar.\n21:30–22:00  W
+ rite 3–5 key takeaways and 1 SLI idea.\n\nResources:\n• Google SRE Boo
+ k: https://sre.google/sre-book/table-of-contents/\n• Example video: http
+ s://www.youtube.com/watch?v=uTEL8Ff1Zvk\nDeliverable: notes_week12.md\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 12 [Lab] Interview Preparation and Reflection
+DTSTART;TZID=Asia/Singapore:20260114T200000
+DTEND;TZID=Asia/Singapore:20260114T220000
+DESCRIPTION:Week 12 Hands-On Lab – Interview Preparation and Reflection\
+ nDuration: 2 hours\n\n20:00–20:30  Setup environment & validate prerequi
+ sites.\n20:30–21:15  Execute main lab steps.\n21:15–22:00  Verify resu
+ lts\, capture screenshots.\n\nDeliverable: working config/scripts for week
+  12.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 12 [Project] Interview Preparation and Reflection
+DTSTART;TZID=Asia/Singapore:20260118T140000
+DTEND;TZID=Asia/Singapore:20260118T180000
+DESCRIPTION:Week 12 Project Build & Documentation – Interview Preparatio
+ n and Reflection\nDuration: 4 hours\n\n14:00–15:00  Build core project c
+ omponents or automation scripts.\n15:00–16:00  Add observability/monitor
+ ing.\n16:00–17:00  Test features\, validate metrics.\n17:00–18:00  Wri
+ te README\, commit to repo.\n\nDeliverable: completed project folder for w
+ eek 12.\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 12 [Reflection] Interview Preparation and Reflection
+DTSTART;TZID=Asia/Singapore:20260118T190000
+DTEND;TZID=Asia/Singapore:20260118T200000
+DESCRIPTION:Week 12 Reflection & Review – Interview Preparation and Refl
+ ection\nDuration: 1 hour\n\nReflect on:\n• What reliability insight stoo
+ d out this week?\n• Which tool/metric felt most valuable?\n• What to a
+ utomate next week?\n\nDeliverable: update reflections.md with Week 12 note
+ s.\n
+END:VEVENT
+END:VCALENDAR
